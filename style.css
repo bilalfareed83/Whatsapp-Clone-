@@ -1,0 +1,217 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.container{
+
+    width: 450px;
+    height: auto;
+    background-color:darkcyan ;
+    display: block;
+}
+
+.container2{
+
+    width: 450px;
+    height: auto;
+    background-color:whitesmoke ;
+    display: block;
+    margin-top: 0px;
+    padding: 0px;
+
+
+
+}
+
+
+
+
+
+.container h1{
+
+    display: inline-table;
+    margin: 0px;
+    padding: 20px;
+    color: floralwhite;
+    opacity: .95;
+}
+
+.container a img{
+    
+    float: right;
+    width: 20px;
+    height: 20px;
+    opacity: .5;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.nav-cam{
+    margin-left: 0px;
+    margin-top: 10px;
+    float: left;
+    width: 80px;
+    height: 60px;
+    opacity: .5;
+    text-align: center;
+   
+} 
+
+
+
+.nav-bar ul{
+
+    list-style: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    background-color: darkcyan;
+    
+}
+
+.nav-bar li{
+
+    display: inline-block;
+    width: 80px;
+    height: 30px;
+    /* background-color: darkred; */
+    margin: 10px;
+    padding: 10px;
+    /* text-align: center; */
+   
+    
+}
+
+
+
+.nav-bar li :hover{
+
+    
+    text-decoration: underline;
+    opacity: .95;
+    display: inline;
+    
+}
+
+
+.nav-bar a{
+
+    text-decoration: none;
+    color: floralwhite;
+    opacity: .5;
+    font-size: 20px;
+    
+}
+
+
+.display-img{
+
+    width: 80px;
+    height: 50px;
+    text-align: justify;
+    padding: 10px;
+
+}
+
+.contact-list{
+
+    height: 30px;
+    width: 380px;
+    padding: 5px;
+    text-align:justify;
+    text-decoration: none;
+    
+    
+
+}
+
+
+.time sup{
+    float: left;
+    opacity: .5;
+}
+
+
+.text-deco{
+
+    text-decoration: none;
+}
+
+
+.image-size{
+
+        width: 65px;
+        height: auto;
+        text-align: center;
+        opacity: .5;
+}
+
+.current-msg{
+
+    opacity: .5;
+}
+
+.c-name{
+
+    color: black;
+    font-size: 22px;
+
+}
+/* Status.html Page */
+
+.r-update{
+
+    width: 450px;
+    height: 20px;
+    background-color: dimgrey;
+    opacity: .30;
+    font-weight: bold;
+    padding: 5px;
+    color: black;
+     
+    
+    
+}
+
+hr{
+    width: 350px;
+    float: right;
+}
+
+
+/* Call.html Page */
+
+.Call-img-list{
+
+    height: 30px;
+    width: 80px;
+    padding: 5px;
+    text-align:justify;
+    text-decoration: none;
+}
+
+
+.call-contact-list{
+
+    height: 30px;
+    width: 250px;
+    padding: 5px;
+    text-align:justify;
+    text-decoration: none;
+    
+    
+
+}
+
+.call-img{
+    width: 30px;
+    height: 50px;
+    text-align: justify;
+    margin-left: 50px;
+
+}
+
+td>img{
+    opacity: .7;
+}
+
